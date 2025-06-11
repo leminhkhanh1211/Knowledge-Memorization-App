@@ -42,17 +42,17 @@
 
 ## 🖼️ Giao diện ứng dụng
 
-## 🔐 Đăng ký / Đăng nhập / Trang chủ Admin
+### 🔐 Đăng ký / Đăng nhập / Trang chủ Admin
 
 <img src="https://github.com/user-attachments/assets/8111dd57-de65-4d3a-b882-608427e71677" width="500"/>
 
-## 🧑‍💼 Giao diện quản lý của Admin
+### 🧑‍💼 Giao diện quản lý của Admin
 
 <img src="https://github.com/user-attachments/assets/3ffca78e-8e1d-412e-a0af-8e018f331dc3" width="500"/><br/>
 
 <img src="https://github.com/user-attachments/assets/b722ec7f-5e7f-48f8-85d3-b6ca2c5082aa" width="500"/>
 
-## 👩‍🎓 Giao diện của User
+### 👩‍🎓 Giao diện của User
 
 <img src="https://github.com/user-attachments/assets/24c63105-0b21-405c-b7f4-7aee084b7993" width="500"/><br/>
 
